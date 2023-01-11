@@ -1,3 +1,4 @@
+package edu.nayane.anatomiaClasses3;
 
 public class MinhaClasse {
 

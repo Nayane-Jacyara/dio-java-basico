@@ -1,5 +1,4 @@
-import javax.lang.model.util.ElementScanner14;
-
+package edu.nayane.anatomiaClasses4;
 public class BoletimEstudantil{
 
     public static void main(String[] args) {
@@ -7,7 +6,7 @@ public class BoletimEstudantil{
         if(mediaFinal < 6)
            System.out.println("REPROVADO");
         else if (mediaFinal == 6)
-            System.out.println("PROVA MINERVA");
+            System.out.println("PROVA MINERVA"); 
         else
             System.out.println("APROVANDO");   
     }
